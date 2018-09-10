@@ -36,4 +36,4 @@ This is the expanded list of enrollment items. The home button is irrelevant bec
 
 The drop down menu is not even that helpful. Users would rather be taken to the main menu page directly.
 
-Students use PeopleSoft constantly, and it is as painful to use as it is ugly to look at.
+Students use PeopleSoft constantly, and it is as painful to use as it is unappealing to look at.
