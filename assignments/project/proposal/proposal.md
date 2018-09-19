@@ -3,14 +3,14 @@ lathe usert: post
 title: Shareable Art
 subtitle: Taking the art out of the museum
 ---
-![share](./share.png)
+![share](./share.jpg)
 
 ## The Problem
 People love sharing things with their friends. They share playlists and songs from Spotify, videos from YouTube, news articles on Facebook, memes from Reddit, to name a few. If someone were in a museum and saw interesting artwork, how would they share it with friends? Taking a picture of it could work. What if the phone is dead or the museum prohibits photography? In this case the best bet would be to write down the name of the piece and hope the attendee remembers to share it.
 
 While it is true that museums provide an intimate experience for those who go, sharing a piece to someone else can be as intimate. There are currently limitations in sharing art. A simple picture of it may not encapsulate the art correctly, maybe the person also wants to share the name and description of the art which would require multiple pictures. Sharing art has to be done correctly. Assuming the museum allows photography, I bet they would not want all the guests to be on their phones and taking flash photography. This type of sharing takes away from the museum experience.
 
-![mona](./mona.png)
+![mona](./mona.jpg)
 (Photo from [BigStock.com](BigStock.com))
 
 The picture above is was needs to be avoided when sharing art. Here, visitors cannot fully experience the Mona Lisa. They can only see desperate people trying to take a a picture of what is one of the most famous and important portrait. What could be an exciting visit to a museum to look at DaVinci's work turns into a chaotic mob of people and terrible pictures. The people also looking at those pictures outside of the museum would also be unamused, as if someone recorded a video from YouTube with another phone. This loses the quality and integrity of art.
