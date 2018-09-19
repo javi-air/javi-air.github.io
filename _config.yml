@@ -24,7 +24,7 @@ description: A virtual proof that name is awesome!
 # List of links in the navigation bar
 navbar-links:
   About me: "aboutme"
-  Project Proposal: "assignments/assignments/project/proposal/proposal"
+  Project Proposal: "assignments/project/proposal/proposal"
   Assignments:
     - Good Design: "assignments/good/gooddesign"
     - Bad Design: "assignments/bad/baddesign"
