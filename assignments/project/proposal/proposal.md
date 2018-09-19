@@ -4,6 +4,7 @@ title: Shareable Art
 subtitle: Taking the art out of the museum
 ---
 ![share](./share.jpg)
+(Photo from [Zipi](www.zippi.co.uk))
 
 ## The Problem
 People love sharing things with their friends. They share playlists and songs from Spotify, videos from YouTube, news articles on Facebook, memes from Reddit, to name a few. If someone were in a museum and saw interesting artwork, how would they share it with friends? Taking a picture of it could work. What if the phone is dead or the museum prohibits photography? In this case the best bet would be to write down the name of the piece and hope the attendee remembers to share it.
