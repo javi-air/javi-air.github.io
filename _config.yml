@@ -24,7 +24,8 @@ description: A virtual proof that name is awesome!
 # List of links in the navigation bar
 navbar-links:
   About me: "aboutme"
-  Project Proposal: "assignments/project/proposal/proposal"
+  Group Project Proposal: "https://ethioeph.github.io/muse-soc-network/"
+  Individual Project Proposal: "assignments/project/proposal/proposal"
   Assignments:
     - Good Design: "assignments/good/gooddesign"
     - Bad Design: "assignments/bad/baddesign"
