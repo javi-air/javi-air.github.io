@@ -2,7 +2,7 @@
 
 ## Paper: Enacting Engagement Online: framing social media use for the museum 
 ### Dr. Jenny Kidd, City University, London
-[link](http://orca.cf.ac.uk/36953/1/itp_kidd_post-review.pdf)
+[link to the paper](http://orca.cf.ac.uk/36953/1/itp_kidd_post-review.pdf)
 
 In her paper, Dr. Jenny Kidd argues that museums have the wrong approach when using social media. She categorizes the behavior of the museums into different frames she later analyses. In such frames, Dr.Kidd uses various examples of museums’ poor use of social media as examples to validate her claim. One of her main arguments is that museums focus more on what they get out of using social media, instead of focusing on nurturing a dynamic between the consumers and the establishments. She gives the example that “right now Twitter is full of museums broadcasting events listings and press releases and in doing so they make themselves both as brands and institutions seem distant and uninviting.” On top of this, she cites people explaining the behavior of museums in order to refute those claims with examples. All in all, I believe the points Dr. Kidd raises. Even though she quotes museums as an entity instead of quoting the specific employee, the excerpts from her interviews convince me that she has an understanding of how museums think as a unit, and how they can improve their social media presence.
 
