@@ -28,6 +28,7 @@ navbar-links:
     - Group Project: "https://ethioeph.github.io/muse-soc-network/"
     - Individual Project: "assignments/project/proposal/proposal"
   Assignments:
+    - Report: "assignments/research"
     - Good Design: "assignments/good/gooddesign"
     - Bad Design: "assignments/bad/baddesign"
 
