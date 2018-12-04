@@ -1,7 +1,7 @@
 # Design Manifesto
 The world of product design was a mystery at the start of this semester. I had no idea what methods, dynamics, and practices were used when a team made decisions about the directions they would take their product in. A lot of what I learned came from reading various texts on the subject and actually designing a [product](https://ethioeph.github.io/muse-soc-network/) with a [team](https://ethioeph.github.io/muse-soc-network/assignments/team_contract/). Working with a team allowed me to gain the experience of working with a team and figuring out how to effectively design a product that meets users’ needs. The takeaways of my experience were masked by five points that defined my design process:
 * Understanding the user and creating a product for them
-* Iteration! Bring out many ideas and designs in order to improve the product.
+* Iterate! Bring out many ideas and designs in order to improve the product.
 * Receiving lots of feedback improved my understanding of the design process and made for a better design.
 * Being transparent and thorough with users sets an ethical foundation.
 * Thinking about how different users will interact with the product and making it accessible to all.
@@ -22,7 +22,7 @@ Feedback came in handy when we were deciding which logo to use for our “recomm
 (Different logos we tried for the recommendation button)
 
 Each deliverable was also thoroughly reviewed and commented by our professor, [Iris](http://www.cs.williams.edu/~iris/). As an amateur designer, I benefited a lot from Iris’s feedback. She was able to point out the mistakes in my understanding of the material as well as on the terminology used. All in all, the design process should be supervised by someone with more experience in the field like a manager or a professor. 
-## Iteration! Bring out many ideas and designs in order to improve the product. 
+## Iterate! Bring out many ideas and designs in order to improve the product. 
 During one of our lectures, Iris told us of a study that was done in a ceramics class. One half of the students were told to produce work of the highest quality, while the other half was told to make as many ceramics as possible. It turns out that the latter actually produced better work. This is because by making more pieces, they were able to fix their flaws as they kept iterating. I applied this to our design process to reduce the number of flaws our product has.
 My team and I went through different approaches to our design. From a webpage to an interactive app on a museum wall, we brainstormed multiple ideas and narrowed it down to [three](https://ethioeph.github.io/muse-soc-network/assignments/designs/). The iteration of multiple ideas allowed us to explore all the different possibilities instead of being stuck in one design that could not have been the best one. 
 
