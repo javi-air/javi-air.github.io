@@ -19,6 +19,7 @@ Once we had a [paper prototype](https://ethioeph.github.io/muse-soc-network/assi
 Feedback came in handy when we were deciding which logo to use for our “recommendations” tab. At first, we used the logo for our product but found that users struggled to find the right tab and resorted to random navigation until they saw it. We then came up with a couple different designs for the button, some did not make sense to users, others took some time to interpret, while others were understood quite fast. We ended up picking the one that was most liked by users which also happened to be the design that took the shortest time to understand.
 
 ![IMAGE](./recommendations.png)
+(Different logos we tried for the recommendation button)
 
 Each deliverable was also thoroughly reviewed and commented by our professor, [Iris](http://www.cs.williams.edu/~iris/). As an amateur designer, I benefited a lot from Iris’s feedback. She was able to point out the mistakes in my understanding of the material as well as on the terminology used. All in all, the design process should be supervised by someone with more experience in the field like a manager or a professor. 
 ## Iteration! Bring out many ideas and designs in order to improve the product. 
