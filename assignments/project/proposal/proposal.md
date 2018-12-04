@@ -3,7 +3,7 @@ lathe usert: post
 title: Shareable Art
 subtitle: Taking the art out of the museum
 ---
-![share](./share.jpg)
+![share](./share.jpg)  
 (Photo from [Zipi](http://www.zippi.co.uk/))
 
 ## The Problem
